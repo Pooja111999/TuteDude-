@@ -1,0 +1,84 @@
+.container-xxl{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.list1{
+    display: flex;
+ justify-content: end;
+ 
+}
+.UIUX{
+   margin-left: 60px; 
+}
+
+
+.box1{
+ background-color: rgba(250, 235, 215, 0.24);
+    height: 130px;
+    width: 350px;
+   margin-left: 100px;
+   border-radius: 10px;
+   margin-top: 10px;
+    
+}
+.box2{
+    border: 3px solid peru;
+    height: 40px;
+    width: 170px;
+   border-radius: 10px;
+margin-right: 350px;
+color: purple;
+   line-height: 30px;
+   
+}
+.text1{
+    color: purple;
+}
+.text{
+    font-size: x-large;
+}
+.btn{
+    border-radius: 50px;
+    background-color: purple;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+img{
+    height: 20px;
+}
+.span{
+    font-size: 25px;
+line-height:  -90px;
+    
+}
+.flex{
+   margin-top: 20px;
+    margin-left: 40px;
+    height: 330px;
+    width: 850px;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    
+}
+.flex2{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.flex1{
+    color: purple;
+    font-size: 20px;
+}
+.img1{
+    height: 25px;
+    border-radius: 50px;
+    
+
+}
+.box3{
+    color: purple;
+    font-size: large;
+}
